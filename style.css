@@ -1,0 +1,35 @@
+
+
+
+.my-span {
+    color: rgb(230, 23, 23);
+  font-size:150%;
+  font-style: oblique;
+  font-weight: bold;
+  font-family: 'Gill Sans';
+}
+.h2{
+font-family: 'Arial Narrow';}
+
+a:visited{
+  color:blueviolet
+}
+  
+a:link{
+  color:grey
+}
+.container{
+  width:50%;
+  height: 40px;
+  margin: top 100px;;
+}
+
+.te{
+	font-family:'Gill Sans';
+	font-style:  oblique;
+	line-height: 2;
+	font-size: 17px;
+    font-weight: bold;
+    color:rgb(156, 31, 31)
+
+}
